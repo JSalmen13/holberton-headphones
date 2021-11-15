@@ -42,3 +42,8 @@ Having fun developing this piece of art
 # Mobile
 ![Mobile](https://github.com/Jsalmen13/holberton-headphones/blob/master/design/01_headphones_mobile.png) 
 
+## AUTHOR
+Jarraya Salmen : [Holberton-School] | [GitHub]
+
+[Holberton-School]:<https://www.holbertonschool.com>
+[GitHub]:<https://github.com/JSalmen13>
