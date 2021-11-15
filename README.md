@@ -30,3 +30,15 @@ Having fun developing this piece of art
 - build a web page from outside to inside and from top to bottom
 - avoid using super specific CSS selectors as much as possible
 - simple HTML structure - div containers are your friend!
+
+## Final Results
+
+# Desktop
+![Desktop](https://github.com/jsalmn13/holberton-headphones/blob/master/design/01_headphones_desktop.png)
+
+# Tablet
+![Tablet](https://github.com/jsalmen13/holberton-headphones/blob/master/design/01_headphones_tablet.png)  
+
+# Mobile
+![Mobile](https://github.com/jsalmen13/holberton-headphones/blob/master/design/01_headphones_mobile.png) 
+
